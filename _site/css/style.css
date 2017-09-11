@@ -1,0 +1,80 @@
+body {
+	font-family: "Arial";
+	color: rgb(52, 52, 52);
+	background-color: whitesmoke;
+}
+
+h1 {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 150px;
+}
+
+.usersList {
+	padding-bottom: 50px;
+	width: 100%;
+	background-color: aliceblue;
+}
+
+.userCover {
+	margin-bottom: 50px;
+	padding-left: 50px;
+}
+
+.userCoverInfo {
+	margin-top: -50px;
+	padding-left: 100px;
+}
+
+.userCoverAvatar {
+	border-radius: 1000px; /*make circle*/
+	box-shadow: 0 0 15px #666;
+}
+
+.user {
+	margin: 120px;
+	margin-top: 80px;
+}
+
+.useravatar {
+	border-radius: 1000px; /*make circle*/
+	box-shadow: 0 0 15px #666;
+	
+	width: 150px;
+	height: 150px;
+}
+
+.username {
+	margin-left: 200px;
+	margin-top: -125px;
+}
+
+#username {
+	font-size: 12px;
+	font-family: monospace;
+	margin-top: -10px;
+	padding-left: 10px;
+}
+
+.userInfo {
+	margin-left: 350px;
+	margin-top: -120px;
+}
+
+.userLink {
+	font-size: 20px;
+/*	font-family: monospace;*/
+	margin-left: 150px;
+}
+
+.backButton {
+	margin-top: 30px;
+    background-color: #00a3b1; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
