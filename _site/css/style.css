@@ -78,15 +78,3 @@ h1 {
     display: inline-block;
     font-size: 16px;
 }
-
-#mainButton {
-	margin-left: 100px;
-}
-
-#mainPageText {
-	margin-left: 100px;
-	text-indent: 50px;
-	line-height: 20px;
-	word-spacing: 3px;
-/*	text-shadow: 20px 20px 15px #666;*/
-}
