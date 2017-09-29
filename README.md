@@ -1,2 +1,3 @@
-# lab1goveo.github.io
-lab1 webprogbase
+# lab1 webprogbase
+
+### https://goveo.github.io/lab1/
